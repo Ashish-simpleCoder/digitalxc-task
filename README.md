@@ -18,6 +18,8 @@ kanban board
 - `React-icons` for icons
 - `Tailwind` Css for styling
 
+#### Api
+- Have created a backend server for serving the tasks and updating them. Located at `/server` folder
 
 #### Data Structure of the todo task
 - Have created in-memory object for todos. `tasks` and `tasksSequence`. Where `tasks` stores all of the task and `tasksSequence` stores all of the sequence/position of the task for particular type of task (like todo, in-progress, and done types of tasks).
