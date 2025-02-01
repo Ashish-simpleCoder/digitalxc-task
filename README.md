@@ -6,7 +6,8 @@ kanban board
 - run `pnpm i` & `pnpm dev` on root folder for react app. It will be `http://localhost:5173`
 - goto `cd sever`, then `pnpm i` and run `pnpm dev` to start backend api server. It will be `http://localhost:3000`
 
-
+## Live url
+- `digitalxc-task.vercel.app`, but backend server is not hosted, so will need to run it locally.
 
 ### Approach for developing
 
